@@ -74,12 +74,14 @@ export default {
      width: 300px;
      max-width: 300px;
      margin-top: 25px;
+     height:fit-content;
 
      .webfish-body {
     background: #ffedd5;
     color: #5b755a;
     border-radius: 10px;
      padding: 10px;
+     height:fit-content;
 }
       
     .webfish-fishimg {
