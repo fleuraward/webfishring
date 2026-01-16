@@ -35,7 +35,7 @@ if (isLocalhost) {
 <div class="webfish-body">
 <p> Uh oh! Your fishing rod doesn't have any bait on it. Please press the worm to join the webfishring so you can hopefully catch something!</p>
   
-  <a href="https://layercake.nekoweb.org/projects/webfishring>
+  <a href="https://layercake.nekoweb.org/projects/webfishring">
   <img class="webfish-link-img" src="https://layercake.nekoweb.org/webring/webfishing/worm.png">
   </a>
 </div>
