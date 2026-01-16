@@ -11,7 +11,7 @@ if (isLocalhost) {
   defaultWidgetContent = `this is a placeholder for testing purposes, so you can see what it looks like!<br><br><br>
 <div class="webfish-body">
             <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/axolotl.png">
-            <p> Woah, a new creature! You caught an axolotl! Can I ax-olotl you a question? (...I tried, ok?) </p>
+            <p> Woah nice catch, June! You caught an axolotl! Can I ax-olotl you a question? (...I tried, ok?) </p>
 
             <p>Let's see what other webfishers have caught...</p>
   <div class="webfish-links">
@@ -43,7 +43,7 @@ if (isLocalhost) {
   widgetContent = `
 <div class="webfish-body">
             <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/{current.imagefish}">
-            <p> Woah, a new creature! You caught {current.fish}! {current.fishline} </p>
+            <p> Woah nice catch, {current.name}! You caught {current.fish}! {current.fishline} </p>
 
             <p>Let's see what other webfishers have caught...</p>
   <div class="webfish-links">
