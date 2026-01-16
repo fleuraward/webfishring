@@ -69,14 +69,14 @@ export default {
   widget: widgetContent,
   style: `
     :webring {
-      font-family: ms ui gothic;
-      font-size:1.2rem;
      width: 300px;
      max-width: 300px;
      margin-top: 25px;
      height:fit-content;
 
      .webfish-body {
+      font-family: ms ui gothic;
+      font-size:1.2rem;
     background: #ffedd5;
     color: #5b755a !important;
     border-radius: 10px;
@@ -107,6 +107,7 @@ export default {
     .webfish-body p {
     text-align:center;
     margin: 1em 0;
+    color: #5b755a !important;
     }
 
     .webfish-body p:first-of-type {
