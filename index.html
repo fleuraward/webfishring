@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Persona Webring Codeside</title>
+  </head>
+  <body>    
+    <script src="https://fleuraward.github.io/webr/webfish.setup.js"></script>
+
+    <style>
+      .flex { display: flex; gap: 20px;}
+
+     .webfish-body {
+      font-family: ms ui gothic;
+      font-size:1.2rem;
+     width: 300px;
+     max-width: 300px;
+     margin-top: 25px;
+    background: #ffedd5;
+    color: #5b755a;
+    border-radius: 10px;
+     padding: 10px;
+}
+      
+    .webfish-fishimg {
+    width: 100px;
+    height:auto;
+    display:block;
+    margin:0 auto;
+    margin-bottom: 10px;
+    }
+
+    
+    .webfish-body::before {
+    content: "Catch!";
+    position:relative;
+    top:-20px;
+    color: #ffedd5;
+    background: #5b755a;
+    padding: 10px 15px;
+    border-radius: 20px;
+    left:0;
+    }
+
+    .webfish-body p {
+    text-align:center;
+    margin: 1em 0;
+    }
+
+    .webfish-body p:first-of-type {
+    margin-top:0;
+    }
+
+    .webfish-links {
+    display:flex;
+    justify-content:space-between;
+    }
+
+    .webfish-margin-top { margin-top: 1em }
+
+    .webfish-link-img {
+    height: 30px;
+    width:auto;
+    display: block;
+    margin:0 auto;
+    }
+    </style>
+    static
+    <div class="flex">
+      <div class="webfish-body">
+            <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/axolotl.png">
+            <p> Woah, a new creature! You caught an axolotl! Can I ax-olotl you a question? (...I tried, ok?) </p>
+
+            <p>Let's see what other webfishers have caught...</p>
+  <div class="webfish-links">
+  <a href="#">
+  <img class="webfish-link-img" src="https://layercake.nekoweb.org/webring/webfishing/prev.png">
+  </a>
+  
+  <a href="#">
+  <img class="webfish-link-img" src="https://layercake.nekoweb.org/webring/webfishing/worm.png">
+  </a>
+
+  <a href="#">
+  <img class="webfish-link-img" src="https://layercake.nekoweb.org/webring/webfishing/next.png">
+  </a>
+  </div>
+  </div>
+
+  
+<div class="webfish-body">
+<p> Uh oh! Your fishing rod doesn't have any bait on it. Please press the worm to join the webfishring so you can hopefully catch something!</p>
+  
+  <a href="https://layercake.nekoweb.org/webring/webfishing">
+  <img class="webfish-link-img" src="https://layercake.nekoweb.org/webring/webfishing/worm.png">
+  </a>
+</div>
+
+    </div>
+    <!---
+  {current.fish} for "a fish" or "an fish"
+  {current.imagefish} for image. shown as bob.png
+  {current.fishline} for th fish blurb
+    --->
+  </body>
+</html>
