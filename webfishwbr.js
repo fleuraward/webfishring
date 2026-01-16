@@ -3,7 +3,7 @@ const webfishwbr = [
     "host": "layercake.moe",
     "name": "June",
     "imagefish": "axolotl.png",
-    "fish": "an axolotl",
+    "fish": "an Axolotl",
     "fishline": "Can I ax-olotl you a question? (...I tried, ok?)"
   }
 ];
