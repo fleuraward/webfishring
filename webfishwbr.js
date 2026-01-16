@@ -12,7 +12,7 @@ const webfishwbr = [
     "imagefish": "Dogfish.png",
     "fish": "a Dogfish",
     "fishline": "He's just like you! But yknow... more... fishy?"
-  },
+  }
 ];
 
 export default webfishwbr;
