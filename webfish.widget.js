@@ -108,6 +108,7 @@ export default {
     text-align:center;
     margin: 1em 0;
     color: #5b755a !important;
+      font-family: ms ui gothic;
     }
 
     .webfish-body p:first-of-type {
