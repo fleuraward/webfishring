@@ -4,12 +4,12 @@
   // Import the site list from JS module
   let siteList = [];
   try {
-    siteList = (await import('https://fleuraward.github.io/webr/webfishwbr.js')).default; // members list
+    siteList = (await import('https://fleuraward.github.io/webfishring/webfishwbr.js')).default; // members list
   } catch (error) {
     console.error('Failed to load site list:', error);
   }
   // Import the rest of the config
-  let config = (await import('https://fleuraward.github.io/webr/webfish.widget.js')).default; // html and css
+  let config = (await import('https://fleuraward.github.io/webfishring/webfish.widget.js')).default; // html and css
   
   // Merge the list with the imported config
   config.list = siteList;
