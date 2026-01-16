@@ -78,7 +78,7 @@ export default {
 
      .webfish-body {
     background: #ffedd5;
-    color: #5b755a;
+    color: #5b755a !important;
     border-radius: 10px;
      padding: 10px;
      height:fit-content;
