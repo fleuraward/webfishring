@@ -15,8 +15,8 @@ if (isLocalhost) {
   Catch!
   </div>
 </div>
-            <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/axolotl.png">
-            <p> Woah nice catch, June! You caught an axolotl! Can I ax-olotl you a question? (...I tried, ok?) </p>
+            <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/creature.gif">
+            <p> Woah nice catch, June! NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch!​NiceCatch! </p>
 
             <p>Let's see what other webfishers have caught...</p>
   <div class="webfish-links">
