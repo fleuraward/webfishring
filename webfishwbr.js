@@ -16,7 +16,7 @@ const webfishwbr = [
     "nsfw": "No"
   },
   {
-    "host": "https://sproutvale.nekoweb.org/",
+    "host": "sproutvale.nekoweb.org",
     "name": "Beanie",
     "imagefish": "UFO.png",
     "fish": "Unidentified Fish Object",
@@ -24,7 +24,7 @@ const webfishwbr = [
     "nsfw": "No"
   },
   {
-    "host": "https://ddnikki.moe/",
+    "host": "ddnikki.moe",
     "name": "ddnikki",
     "imagefish": "CREATURE.gif",
     "fish": "CREATURE",
