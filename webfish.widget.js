@@ -10,6 +10,11 @@ if (isLocalhost) {
   hostValue = "localhost-display-value";  
   defaultWidgetContent = `this is a placeholder for testing purposes, so you can see what it looks like!<br><br><br>
 <div class="webfish-body">
+<div class="webfish-hold">
+  <div class="webfish-catch">
+  Catch!
+  </div>
+</div>
             <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/axolotl.png">
             <p> Woah nice catch, June! You caught an axolotl! Can I ax-olotl you a question? (...I tried, ok?) </p>
 
@@ -33,6 +38,12 @@ if (isLocalhost) {
   hostValue = currentHost;
   defaultWidgetContent = `
 <div class="webfish-body">
+<div class="webfish-hold">
+  <div class="webfish-catch">
+  Catch!
+  </div>
+</div>
+
 <p> Uh oh! Your fishing rod doesn't have any bait on it. Please press the worm to join the webfishring so you can hopefully catch something!</p>
   
   <a href="https://layercake.nekoweb.org/projects/webfishring">
@@ -42,6 +53,11 @@ if (isLocalhost) {
 `;
   widgetContent = `
 <div class="webfish-body">
+<div class="webfish-hold">
+  <div class="webfish-catch">
+  Catch!
+  </div>
+</div>
             <img class="webfish-fishimg" src="https://layercake.nekoweb.org/webring/webfishing/fish/{current.imagefish}">
             <p> Woah nice catch, {current.name}! You caught {current.fish}! {current.fishline} </p>
 
@@ -92,11 +108,15 @@ export default {
     margin-bottom: 10px;
     }
 
-    
-    .webfish-body::before {
-    content: "Catch!";
+    .webfish-hold {
+    height:0;
+    width:100%;
     position:relative;
-    top:-20px;
+    }
+
+    .webfish-catch {
+    position:absolute;
+    top:-30px;
     color: #ffedd5;
     background: #5b755a;
     padding: 10px 15px;
