@@ -40,6 +40,14 @@ const webfishwbr = [
     "nsfw": "no"
   },
   {
+    "host": "fruitytales.nekoweb.org",
+    "name": "Viola",
+    "imagefish": "Shrimp.png",
+    "fish": "a Shrimp",
+    "fishline": "One in a krillion! (this isnt a krill btw)",
+    "nsfw": "No"
+  },
+  {
     "host": "ryqrtz.nekoweb.org",
     "name": "Rye",
     "imagefish": "Anomalocaris.png",
