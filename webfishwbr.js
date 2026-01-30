@@ -70,6 +70,38 @@ const webfishwbr = [
     "fish": "Helicoprion",
     "fishline": "Nature's pizza cutter!",
     "nsfw": "No"
+  },
+  {
+  "host": "lunarcorvus.com",
+  "name": "Mina",
+  "imagefish": "Mooneye.png",
+  "fish": "Mooneye",
+  "fishline": "Mooneye? At this time?",
+  "nsfw": "Yes"
+  },
+  {
+    "host": "flonkie.nekoweb.org",
+    "name": "Flonkie",
+    "imagefish": "HammerheadShark.png",
+    "fish": "Hammerhead Shark",
+    "fishline": "Guess you hit the nail on the head!",
+      "nsfw": "No"
+  },
+  {
+    "host": "starfrost-spire.neocities.org",
+    "name": "Harmony",
+    "imagefish": "MantaRay.png",
+    "fish": "Manta Ray",
+    "fishline": "The butterfly of the sea!",
+    "nsfw": "No"
+  },
+  {
+    "host": "doqmeat.com",
+    "name": "Des",
+    "imagefish": "Catfish.png",
+    "fish": "Catfish",
+    "fishline": "He's just like you! But yknow... more... fishy?",
+    "nsfw": "no"
   }
 ];
 
