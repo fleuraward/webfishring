@@ -102,7 +102,39 @@ const webfishwbr = [
     "fish": "Catfish",
     "fishline": "He's just like you! But yknow... more... fishy?",
     "nsfw": "no"
-  }
+  },
+  {
+"host": "critters-cranny.nekoweb.org",
+"name": "WereCritter",
+"imagefish": "Salmon.png",
+"fish": "Salmon",
+"fishline": "It's Sal' good, 'mon!",
+"nsfw": "No"
+}, 
+{
+"host": "oddpics.neocities.org",
+"name": "Turtraitor",
+"imagefish": "Axolotl.png",
+"fish": "Axolotl",
+    "fishline": "Can I ax-olotl you a question? (...I tried, ok?)",
+"nsfw": "No"
+}, 
+{
+"host": "divineintrusion.neocities.org",
+"name": "Jace",
+"imagefish": "Shrimp.png",
+"fish": "Shrimp",
+    "fishline": "One in a krillion! (this isnt a krill btw)",
+"nsfw": "Yes"
+},
+{
+"host": "runescapegf.neocities.org",
+"name": "Ink",
+"imagefish": "Pupfish.png",
+"fish": "Pupfish",
+"fishline": "A little puppy!",
+"nsfw": "No"
+}
 ];
 
 export default webfishwbr;
