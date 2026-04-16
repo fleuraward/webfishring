@@ -134,6 +134,86 @@ const webfishwbr = [
 "fish": "Pupfish",
 "fishline": "A little puppy!",
 "nsfw": "No"
+},
+{
+"host": "hello-slitty.neocities.org",
+"name": "Angel",
+"imagefish": "Alligator.webp",
+"fish": "Alligator",
+"fishline": "See you later- !",
+"nsfw": "Yes"
+},
+{
+"host": "riotghoul.neocities.org",
+"name": "Lani",
+"imagefish": "Helicoprion.png",
+"fish": "Helicoprion",
+"fishline": "Nature's pizza cutter!",
+"nsfw": "No"
+},
+{
+"host": "freekibble.neocities.org",
+"name": "Manda",
+"imagefish": "Snail.webp",
+"fish": "snail",
+"fishline": "Meow?",
+"nsfw": "No"
+},
+{
+"host": "b-8-b-b-y.nekoweb.org",
+"name": "b-8-b-b-y",
+"imagefish": "Helicoprion.png",
+"fish": "Helicoprion",
+"fishline": "Nature's pizza cutter!",
+"nsfw": "No"
+},
+{
+"host": "xcrystiiangel.neocities.org",
+"name": "Crystal",
+"imagefish": "Sunfish.webp",
+"fish": "Sunfish",
+"fishline": "Here it comes!",
+"nsfw": "No"
+},
+{
+"host": "hiijax.net",
+"name": "Jax",
+"imagefish": "Snail.webp",
+"fish": "Snail",
+"fishline": "Meow?",
+"nsfw": "No"
+},
+{
+"host": "adadincer.com",
+"name": "Ada",
+"imagefish": "Toad.png",
+"fish": "toad",
+"fishline": "What a boy!",
+"nsfw": "No"
+},
+{
+"host": "jiran.nekoweb.org",
+"name": "Kaz",
+"imagefish": "HorseshoeCrab.png",
+"fish": "Horseshoe Crab",
+"fishline": "Guess it's my lucky day!",
+"nsfw": "No"
+},
+{
+"host": "skyllrk.neocities.org",
+"name": "Skyllark",
+"imagefish": "Carp.webp",
+"fish": "Carp",
+"fishline": "Carp? What a lark!",
+"nsfw": "No"
+},
+{
+"host": "smallcarnivore.neocities.org",
+"name": "Smallcarnivorousmammal",
+"imagefish": "Anomalocaris.png",
+"fish": "Anomalocaris",
+"fishline": "Doing it's best :)",
+"nsfw": "No"
 }
 ];
 
